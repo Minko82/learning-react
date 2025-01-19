@@ -22,3 +22,9 @@ npx create-react-app my-app --legacy-peer-deps
 cd my-app
 ```
 
+4.) Start server
+```bash
+npm start
+```
+
+5.) To stop, go back to the terminal that it was started and press ```control + C```
