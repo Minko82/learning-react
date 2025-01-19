@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import MyComponent from "./components/MyComponent";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to my new React app!</h1>
+        <h1>Hello, React!</h1>
+        <MyComponent />
       </header>
     </div>
   );
