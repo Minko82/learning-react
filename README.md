@@ -11,7 +11,7 @@ npm -v
 
 2.) Set up a new REACT project
 ```bash
-npx create-react-app my-app
+npx create-react-app my-app --legacy-peer-deps
 ```
 ```my-app``` is the name of the project
 
