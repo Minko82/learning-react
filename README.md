@@ -1,7 +1,6 @@
 # testing-react
 
-
-1.) Ensure that Node.js and npm (Node Package Manager) are installed on your computer.
+- Ensure that Node.js and npm (Node Package Manager) are installed on your computer.
 ```bash
 node -v
 npm -v
@@ -9,7 +8,7 @@ npm -v
 
 <br>
 
-2.) Set up a new REACT project
+- Set up a new REACT project
 ```bash
 npx create-react-app my-app --legacy-peer-deps
 ```
@@ -17,14 +16,19 @@ npx create-react-app my-app --legacy-peer-deps
 
 <br>
 
-3.) Navigate to the project directory 
+- Navigate to the project directory 
 ```bash
 cd my-app
 ```
 
-4.) Start server
+- Start server
 ```bash
 npm start
 ```
 
 5.) To stop, go back to the terminal that it was started and press ```control + C```
+
+
+**Note:**
+- App.js appears to be the starting point
+- Features and pages are commonly referred to as ```Components```
