@@ -38,10 +38,10 @@ If you don't have Node.js and npm installed, go to the official website to insta
 This will bootstrap and set up everything for you, including a development server, build scripts, and a project structure.
 
 ```bash
-npx create-react-app name --legacy-peer-deps
+npx create-react-app project-test --legacy-peer-deps
 ```
 
-Replace ```name``` with your project name.
+Replace ```project-test``` with your project name.
 
 <br>
 
@@ -52,10 +52,10 @@ Replace ```name``` with your project name.
 After creating your React project, navigate to your project directory:
 
 ```bash
-cd name
+cd project-test
 ```
 
-Inside the ```name``` folder, you’ll find the following structure:
+Inside the ```project-test``` folder, you’ll find the following structure:
 
 - ```src/```: Contains all of your application's source code, including React components (e.g., App.js).
 - ```public/```: Contains static files, like index.html, where the React app is rendered.
