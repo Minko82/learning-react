@@ -14,9 +14,7 @@ Covering the fundamentals of React, and how to set up your first React project.
 
 ## 2. Prerequisites 🖥️
 
-### Run this command to check if Node.js is installed:
-
-Before you start a react project, you need to have **Node.js** and **npm** (Node Package Manager).
+Before you start a React project, you need to have **Node.js** and **npm** (Node Package Manager).
 
 Run this in your terminal:
 
@@ -33,9 +31,7 @@ If you don't have Node.js and npm installed, go to the official website to insta
 
 ## 3. Create Your First React Project 🎨
 
-### Run this command to create a new project:
-
-This will bootstrap and set up everything for you, including a development server, build scripts, and a project structure.
+This command will set up everything for you, including a development server, build scripts, and a project structure.
 
 ```bash
 npx create-react-app project-test --legacy-peer-deps
@@ -49,11 +45,14 @@ Replace ```project-test``` with your project name.
 
 ## 4. Navigating Your React Project 🔍
 
-After creating your React project, navigate to your project directory:
+After creating your React project from ```step 3```, navigate to your project folder:
 
 ```bash
 cd project-test
 ```
+<br>
+
+### Folder Structure:
 
 Inside the ```project-test``` folder, you’ll find the following structure:
 
@@ -65,11 +64,9 @@ Inside the ```project-test``` folder, you’ll find the following structure:
 
 ---
 
-## 5. Start the Development Server 🖥️
+## 5. Run your App 🖥️
 
-### Run this command to start the local server:
-
-To run your React app and see it in the browser, start the development server with:
+To run your React app and see it in the browser, start the development server with this command:
 
 ```bash
 npm start
@@ -127,7 +124,7 @@ function App() {
 export default App;
 ```
 
-### **NOTE:** Anything you import into App.js will be implemented globally for the entire application.
+### ❗**NOTE**❗ Anything you import into App.js will be implemented globally for the entire application.
 
 <br>
 
