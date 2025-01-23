@@ -1,4 +1,4 @@
-# React Learning Guide 📚🚀
+# Getting Started with React: A Beginner's Guide 📚🚀
 
 Covering the fundamentals of React, and how to set up your first React project.
 
