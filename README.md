@@ -14,9 +14,9 @@ Covering the fundamentals of React, and how to set up your first React project.
 
 ## 2. Prerequisites 🖥️
 
-Before you start a react project, you need to have **Node.js** and **npm** (Node Package Manager).
+### Run this command to check if Node.js is installed:
 
-### Check if Node.js is installed:
+Before you start a react project, you need to have **Node.js** and **npm** (Node Package Manager).
 
 Run this in your terminal:
 
