@@ -176,5 +176,5 @@ Once you’ve written your components, you can:
 
 ---
 
-Yay we nade it to the end of my React speedrun lol ```\(^-^)/```✨
+Yay we made it to the end of this React speedrun! ```\(^-^)/```✨
 
