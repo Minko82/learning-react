@@ -25,6 +25,12 @@ npm -v
 
 If you don't have Node.js and npm installed, go to the official website to install them: [Node.js](https://nodejs.org/en).
 
+
+**If you run into issues with `WebVitals.js`, run:**
+```bash
+npm i web-vitals --save-dev
+```
+
 <br>
 
 ---
